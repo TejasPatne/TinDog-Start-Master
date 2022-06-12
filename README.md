@@ -1,2 +1,1 @@
-# TinDog-Start-Master
-Project created semester III
+TinDog Starting Files
